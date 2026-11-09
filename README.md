@@ -2,6 +2,8 @@
 
 **A working clock written in Mesopotamian cuneiform numerals: base-60 timekeeping, the way the scribes of Babylon counted.**
 
+[LIVE Version](https://claude.ai/artifact/DbKj5eJwYgUN5i2TdrWJeD) 
+
 Babylonian Time is a single-page HTML clock that reads your system time and shows it with the cuneiform number signs used in ancient Mesopotamia. Each digit is impressed into a clay tablet, wedge by wedge, and animates as the time changes.
 
 It's a small project that sits between history, mathematics and design. It shows how the base-60 system works, and it makes a nice ambient display for a second monitor.
